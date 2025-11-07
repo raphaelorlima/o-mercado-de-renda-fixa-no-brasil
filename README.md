@@ -2,7 +2,7 @@
 
  
 
-[Capítulo 1](capitulo_1\README.md)
+[Capítulo 1](capitulo_1\)
 
 Capítulo 2
 
